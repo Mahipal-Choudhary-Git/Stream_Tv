@@ -9,6 +9,6 @@ where we can watch streams live created/uploaded by other users.
 basic jsonServer who gives response according REST conventions. no any specific code or api created. 
 
 # RtmpServer
-used simple node-media-server to creat a rtmpServer for streaming vidoes.its just a basic video streaming app not much complex stuff is it.
+used simple node-media-server to creat a rtmpServer for streaming vidoes. it is just a basic video streaming app not much complex stuffs.
 
 
